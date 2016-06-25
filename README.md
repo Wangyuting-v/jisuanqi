@@ -30,7 +30,7 @@ This is a 计算器
 	 	</div>
 	 </div>
 ~~~
-##CSS格式
+##Step2 CSS格式
 ~~~
 *{margin: 0;padding: 0;box-sizing:border-box;}
 			.showbox{height: 30vh;display: flex;width: 100vw;}
@@ -43,7 +43,7 @@ This is a 计算器
 			#dot{margin-top: -25vw;}
 ~~~
 
-##JS格式
+##Step3 JS格式
 ~~~
 var show=document.getElementById("show")
 	 	var n1=document.getElementById("n1")
